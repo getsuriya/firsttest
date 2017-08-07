@@ -1,0 +1,6 @@
+git clone <URL to be cloned>
+git status + enter
+git add <new file to be added> (git add . or git add -A)
+git commit -m "comments for the commit"
+git push - to push\save the data to the source
+git pull - to pull the data from the source
